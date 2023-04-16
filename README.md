@@ -1,4 +1,4 @@
-# README
+# Weed Classification
 
 ## Description
 
