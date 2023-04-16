@@ -26,7 +26,7 @@ while True:
     img_array /= 255.
 
     # Make predictions on the image
-    predictions = model.predict(img_array)1
+    predictions = model.predict(img_array)
     predicted_class = np.argmax(predictions)
 
     # Display the class label on the screen
