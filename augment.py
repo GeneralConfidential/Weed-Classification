@@ -38,3 +38,5 @@ for directory in [train_dir]:
                 os.makedirs(new_path)
             image_path = os.path.join(new_path,'augmented{}.jpeg'.format(i*batch_size+j+1))
             cv2.imwrite(image_path, image)
+
+#Done by Raag Gautam 20BCE7144

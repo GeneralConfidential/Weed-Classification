@@ -69,3 +69,5 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 # Train the model
 model.fit(train_generator, epochs=epochs, validation_data=val_generator)
 model.save('model.h5')
+
+#Done by Raag Gautam 20BCE7144
