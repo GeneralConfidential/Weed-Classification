@@ -25,8 +25,4 @@ After training the model, you can use the webcam.py script to classify live vide
 
 ```python webcam.py``` 
 
-Note: The trained model file is too large to upload to GitHub and must be trained locally.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Note: The trained model file is too large to upload to GitHub and must be trained locally. My trained model con be found [here](https://drive.google.com/file/d/1qspOtNQfYq_rHNzxoSaxZFjmYjreAzTr/view).
