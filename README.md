@@ -12,7 +12,6 @@ The following packages are required to run the code:
 * keras
 * opencv-python
 * numpy
-* matplotlib
 * scikit-learn
 
 ## Usage
